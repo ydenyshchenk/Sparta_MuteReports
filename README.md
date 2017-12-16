@@ -10,4 +10,4 @@ bin/magento module:enable Sparta_MuteReports
 bin/magento setup:upgrade
 ```
 
-P.S. It's workaround for the issue like https://github.com/magento/magento2/issues/9300
+P.S. It's workaround for the issues like https://github.com/magento/magento2/issues/9300
